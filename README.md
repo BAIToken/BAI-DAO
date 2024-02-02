@@ -10,3 +10,33 @@ Before submitting a request for a vote, you must first discuss it here using the
 
 The voting power in BAI's DAO employs a unique approach, based on platform usage: the more you use the platform features, the more you build up your voting power. This approach ensures that the platform evolves based on its active users, not merely on who holds the most tokens.
 
+Website:
+https://blockai.dev/
+
+Whitepaper:
+https://blockai.dev/files/whitepaper.pdf?1706779522
+
+Polygon MVP:
+https://polygon.blockai.dev/
+
+Waves MVP:
+https://waves.blockai.dev/
+
+Twitter:
+https://twitter.com/baitokendev
+
+Telegram:
+https://telegram.me/baitoken
+
+Linkedin:
+https://www.linkedin.com/company/99502328
+
+Medium:
+https://blockai.medium.com/
+
+Reddit:
+https://www.reddit.com/r/blockai/
+
+Linktree:
+https://linktr.ee/blockai
+
