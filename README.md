@@ -1,4 +1,4 @@
-# dao
+# BAI's DAO
 
 **Welcome to BAI DAO**
 
