@@ -19,6 +19,9 @@ https://blockai.dev/files/whitepaper.pdf?1706779522
 Polygon MVP:
 https://polygon.blockai.dev/
 
+BNB MVP:
+https://bnb.blockai.dev/
+
 Waves MVP:
 https://waves.blockai.dev/
 
