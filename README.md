@@ -17,6 +17,8 @@ https://waves.blockai.dev/dao
 
 We encourage everyone with an idea to start discussing it now.
 
+
+
 **How to Obtain BAI's DAO Voting Power?**
 
 The voting power in BAI's DAO employs a unique approach, based on platform usage: the more you use the platform features, the more you build up your voting power. This approach ensures that the platform evolves based on its active users, not merely on who holds the most tokens.
