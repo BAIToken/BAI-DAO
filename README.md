@@ -17,7 +17,7 @@ https://waves.blockai.dev/dao
 
 We encourage everyone with an idea to start discussing it now.
 
-
+---
 
 **How to Obtain BAI's DAO Voting Power?**
 
